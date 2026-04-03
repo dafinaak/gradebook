@@ -1,0 +1,70 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Elena Martinez"
+    },
+    {
+      "id": 2,
+      "name": "James Carter"
+    },
+    {
+      "id": 3,
+      "name": "Mia Thompson"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CS101",
+      "title": "Intro to Computer Science"
+    },
+    {
+      "code": "MATH200",
+      "title": "Calculus II"
+    }
+  ],
+  "enrollments": [
+    {
+      "student_id": 1,
+      "course_code": "CS101",
+      "grades": [
+        92,
+        88,
+        95
+      ]
+    },
+    {
+      "student_id": 1,
+      "course_code": "MATH200",
+      "grades": [
+        78,
+        82
+      ]
+    },
+    {
+      "student_id": 2,
+      "course_code": "CS101",
+      "grades": [
+        70,
+        75,
+        80
+      ]
+    },
+    {
+      "student_id": 2,
+      "course_code": "MATH200",
+      "grades": [
+        90,
+        85
+      ]
+    },
+    {
+      "student_id": 3,
+      "course_code": "CS101",
+      "grades": [
+        60,
+        65
+      ]
+    }
+  ]
+}
